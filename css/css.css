@@ -1,0 +1,8 @@
+*{
+	margin: 0;
+	padding: 0;
+	text-align: -webkit-center;
+}
+a#hola{/*# ID*//*. ES UNA CLASE*/
+	background-color: #87509c;
+}
